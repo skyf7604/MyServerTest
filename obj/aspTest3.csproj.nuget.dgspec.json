@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\ServerTest\\aspTest3\\aspTest3.csproj": {}
+    "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\MyServerTest\\aspTest3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\ServerTest\\aspTest3\\aspTest3.csproj": {
+    "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\MyServerTest\\aspTest3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\ServerTest\\aspTest3\\aspTest3.csproj",
+        "projectUniqueName": "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\MyServerTest\\aspTest3.csproj",
         "projectName": "aspTest3",
-        "projectPath": "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\ServerTest\\aspTest3\\aspTest3.csproj",
+        "projectPath": "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\MyServerTest\\aspTest3.csproj",
         "packagesPath": "C:\\Users\\skyf7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\ServerTest\\aspTest3\\obj\\",
+        "outputPath": "C:\\Users\\skyf7\\OneDrive\\바탕 화면\\개인연구실\\ㅇ. 서버연구\\WepAppTest\\MyServerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -17,7 +17,7 @@ namespace aspTest3.Controllers
         [HttpGet]
         public string Get()
         {
-            return "혜민이 화이팅";
+            return "!!혜민이 화이팅!!";
         }
 
         /// <summary>
